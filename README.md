@@ -1,9 +1,5 @@
-# Hollow 
-## https://bloodorca.github.io/hollow/
+
 Online save file editor. 
-
-The steps behind decryption and encryption were taken from [@KayDeeTee](https://github.com/KayDeeTee)'s [Hollow Knight Save Manager](https://github.com/KayDeeTee/Hollow-Knight-SaveManager). 
-
 
 ### Instructions 
 1. Make a backup of your save file. In the Hollow Knight save folder, I'll rename `user1.dat` to `user1_a.dat`. 
